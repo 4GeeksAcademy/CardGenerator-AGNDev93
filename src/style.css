@@ -1,7 +1,13 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
 .card {
-  height: 170px;
+  height: 500px;
 }
 #figure2 {
   transform: rotate(180deg);
+}
+.num {
+  font-size: 130px;
+}
+.figures {
+  font-size: 5rem;
 }
